@@ -1,11 +1,10 @@
 {
   "name": "NodeJs",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "M": "parcel index.html",
-    "build":"parcel build index.html"
+    "build": "parcel build index.html"
   },
   "keywords": [],
   "author": "",
@@ -16,5 +15,14 @@
   "dependencies": {
     "lo": "^0.41.0",
     "lodash": "^4.17.21"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alstjd0051/NodeJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alstjd0051/NodeJs/issues"
+  },
+  "homepage": "https://github.com/alstjd0051/NodeJs#readme",
+  "description": ""
 }
